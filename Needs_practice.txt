@@ -1,0 +1,2 @@
+31. Next Permutation
+1129. Shortest Path with Alternating Colors
