@@ -1,2 +1,6 @@
 31. Next Permutation
 1129. Shortest Path with Alternating Colors
+287. Find the Duplicate Number
+645. Set Mismatch
+169. Majority Element
+229. Majority Element II
